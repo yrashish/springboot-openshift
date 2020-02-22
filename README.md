@@ -1,1 +1,1 @@
-# springboot-kubernetes 
+# springboot-minishift-demo
