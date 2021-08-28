@@ -54,7 +54,7 @@
 				<configuration>
 					<!-- replace `callicoder` with your docker id-->
 					<username>hiashish</username>
-					<password>nokia@123</password>
+					<password>password</password>
 					<repository>hiashish/springboot-hello</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
